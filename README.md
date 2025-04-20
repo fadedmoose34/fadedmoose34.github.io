@@ -1,2 +1,1 @@
-That is so funny! :joy:
-![alt text](FlipnoteStudio.jpg)
+![alt text](Flipnote_Studio-title.png)
